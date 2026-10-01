@@ -59,3 +59,6 @@ app.listen(PORT, () => {
   console.log(`  Students Endpoint: http://localhost:${PORT}/students`);
   console.log("================================================");
 });
+
+// ADD THIS LINE — required for Vercel's serverless environment
+module.exports = app;
