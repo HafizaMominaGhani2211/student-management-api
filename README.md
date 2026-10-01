@@ -409,11 +409,11 @@ POST /students (empty)  → Confirm 400 validation error
 
 ## 👤 Author
 
-**[Your Name]**  
+**Hafiza Momina Ghani**  
 Full Stack Development Intern — DecodeLabs Batch 2026
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
+- GitHub: [@HafizaMominaGhani2211](https://github.com/HafizaMominaGhani2211)
+- Email: ranatari2211@gmail.com
 
 ---
 
